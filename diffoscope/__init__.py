@@ -50,6 +50,7 @@ class RequiredToolNotFound(Exception):
                 , 'javap':      { 'debian': 'default-jdk | java-sdk' }
                 , 'ls':         { 'debian': 'coreutils' }
                 , 'lsattr':     { 'debian': 'e2fsprogs' }
+                , 'mkimage':    { 'debian': 'u-boot-tools' }
                 , 'msgunfmt':   { 'debian': 'gettext' }
                 , 'objdump':    { 'debian': 'binutils-multiarch' }
                 , 'pdftk':      { 'debian': 'pdftk' }

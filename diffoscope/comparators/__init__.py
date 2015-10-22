@@ -60,6 +60,7 @@ from diffoscope.comparators.squashfs import SquashfsFile
 from diffoscope.comparators.symlink import Symlink
 from diffoscope.comparators.text import TextFile
 from diffoscope.comparators.tar import TarFile
+from diffoscope.comparators.uimage import UimageFile
 from diffoscope.comparators.xz import XzFile
 from diffoscope.comparators.zip import ZipFile
 
@@ -138,6 +139,7 @@ FILE_CLASSES = (
     RpmFile,
     SquashfsFile,
     TarFile,
+    UimageFile,
     XzFile,
     ZipFile
     )

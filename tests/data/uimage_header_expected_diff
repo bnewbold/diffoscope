@@ -1,0 +1,11 @@
+@@ -1,6 +1,6 @@
+-Image Name:   diffoscope test uImage #1
+-Created:      Thu Oct 22 00:09:18 2015
++Image Name:   diffoscope test uImage #2
++Created:      Thu Oct 22 00:09:33 2015
+ Image Type:   PowerPC Linux Kernel Image (gzip compressed)
+ Data Size:    16 Bytes = 0.02 kB = 0.00 MB
+-Load Address: 00001111
+-Entry Point:  11110000
++Load Address: 00002222
++Entry Point:  22220000
